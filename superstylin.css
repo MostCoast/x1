@@ -17,3 +17,7 @@ img {
 .red {
     color: red;
 }
+
+#third > p {
+    background-color: chartreuse;
+}
